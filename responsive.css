@@ -11,7 +11,7 @@
 	} 
 
 	.navbar{
-		width: auto;
+		width: 70%;
 	}
 
 	.menu { 
@@ -163,6 +163,9 @@
 
 	.contact-details { 
 		width: 80%; 
+	} 
+	.learning .learning-text { 
+		width: 230px; 
 	} 
 
 	.footer-menu { 
