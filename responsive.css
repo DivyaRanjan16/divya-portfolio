@@ -10,6 +10,10 @@
 		padding: 0 3rem; 
 	} 
 
+	.navbar{
+		width: auto;
+	}
+
 	.menu { 
 		position: absolute; 
 		right: 0; 
